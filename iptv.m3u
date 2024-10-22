@@ -7,37 +7,37 @@ http://192.168.8.1:4022/udp/239.77.1.158:5146
 http://192.168.8.1:4022/udp/239.77.0.169:5146
 #EXTINF:-1 tvg-name="CCTV4" group-title="IPTV-央视",CCTV-4高清
 http://192.168.8.1:4022/udp/239.77.0.78:5146
-#EXTINF:-1 tvg-name="CCTV-4美洲" group-title="IPTV-央视",CCTV-4美洲高清
+#EXTINF:-1 tvg-name="CCTV4AME" group-title="IPTV-央视",CCTV-4美洲高清
 http://192.168.8.1:4022/udp/239.253.43.121:5146
-#EXTINF:-1 tvg-name="CCTV-4欧洲" group-title="IPTV-央视",CCTV-4欧洲高清
+#EXTINF:-1 tvg-name="CCTV4EUO" group-title="IPTV-央视",CCTV-4欧洲高清
 http://192.168.8.1:4022/udp/239.253.43.120:5146
-#EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5高清
+#EXTINF:-1 tvg-name="CCTV5" group-title="IPTV-央视",CCTV-5高清
 http://192.168.8.1:4022/udp/239.77.0.170:5146
-#EXTINF:-1 tvg-name="CCTV-5+" group-title="IPTV-央视",CCTV-5+高清
+#EXTINF:-1 tvg-name="CCTV5+" group-title="IPTV-央视",CCTV-5+高清
 http://192.168.8.1:4022/udp/239.77.0.87:5146
-#EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6高清
+#EXTINF:-1 tvg-name="CCTV6" group-title="IPTV-央视",CCTV-6高清
 http://192.168.8.1:4022/udp/239.77.0.171:5146
-#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清
+#EXTINF:-1 tvg-name="CCTV7" group-title="IPTV-央视",CCTV-7高清
 http://192.168.8.1:4022/udp/239.77.1.159:5146
-#EXTINF:-1 tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8高清
+#EXTINF:-1 tvg-name="CCTV8" group-title="IPTV-央视",CCTV-8高清
 http://192.168.8.1:4022/udp/239.77.0.172:5146
-#EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清
+#EXTINF:-1 tvg-name="CCTV9" group-title="IPTV-央视",CCTV-9高清
 http://192.168.8.1:4022/udp/239.77.1.160:5146
-#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
+#EXTINF:-1 tvg-name="CCTV10" group-title="IPTV-央视",CCTV-10高清
 http://192.168.8.1:4022/udp/239.77.1.113:5146
-#EXTINF:-1 tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11高清
+#EXTINF:-1 tvg-name="CCTV11" group-title="IPTV-央视",CCTV-11高清
 http://192.168.8.1:4022/udp/239.77.1.238:5146
-#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清
+#EXTINF:-1 tvg-name="CCTV12" group-title="IPTV-央视",CCTV-12高清
 http://192.168.8.1:4022/udp/239.77.1.109:5146
-#EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13高清
+#EXTINF:-1 tvg-name="CCTV13" group-title="IPTV-央视",CCTV-13高清
 http://192.168.8.1:4022/udp/239.77.0.188:5146
-#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
+#EXTINF:-1 tvg-name="CCTV14" group-title="IPTV-央视",CCTV-14高清
 http://192.168.8.1:4022/udp/239.77.1.161:5146
-#EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15高清
+#EXTINF:-1 tvg-name="CCTV15" group-title="IPTV-央视",CCTV-15高清
 http://192.168.8.1:4022/udp/239.77.1.239:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
+#EXTINF:-1 tvg-name="CCTV16" group-title="IPTV-央视",CCTV-16高清
 http://192.168.8.1:4022/udp/239.77.0.165:5146
-#EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业高清
+#EXTINF:-1 tvg-name="CCTV17" group-title="IPTV-央视",CCTV-17农业高清
 http://192.168.8.1:4022/udp/239.77.0.198:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN英语高清
 http://192.168.8.1:4022/udp/239.77.0.199:5146
@@ -189,7 +189,7 @@ http://192.168.8.1:4022/udp/239.77.1.200:5146
 http://192.168.8.1:4022/udp/239.77.0.180:5146
 #EXTINF:-1 tvg-name="中国交通" group-title="IPTV-数字付费",中国交通
 http://192.168.8.1:4022/udp/239.77.1.249:5146
-#EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶频道高清
+#EXTINF:-1 tvg-name="茶频道" group-title="IPTV-数字付费",茶频道高清
 http://192.168.8.1:4022/udp/239.77.1.207:5146
 #EXTINF:-1 tvg-name="快乐垂钓" group-title="IPTV-数字付费",快乐垂钓高清
 http://192.168.8.1:4022/udp/239.77.1.119:5146
@@ -215,7 +215,7 @@ http://192.168.8.1:4022/udp/239.77.0.244:5146
 http://192.168.8.1:4022/udp/239.77.0.246:5146
 #EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
 http://192.168.8.1:4022/udp/239.77.0.245:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
+#EXTINF:-1 tvg-name="CCTV16" group-title="IPTV-央视",CCTV-16 4K
 http://192.168.8.1:4022/udp/239.77.1.98:5146
-#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
+#EXTINF:-1 tvg-name="CCTV4K" group-title="IPTV-央视",CCTV-4K 4K
 http://192.168.8.1:4022/udp/239.77.1.180:5146
