@@ -189,21 +189,11 @@ http://192.168.8.1:4022/udp/239.77.1.200:5146
 http://192.168.8.1:4022/udp/239.77.0.180:5146
 #EXTINF:-1 tvg-name="中国交通" group-title="IPTV-数字付费",中国交通
 http://192.168.8.1:4022/udp/239.77.1.249:5146
-#EXTINF:-1 tvg-name="茶频道" group-title="IPTV-数字付费",茶频道高清
-http://192.168.8.1:4022/udp/239.77.1.207:5146
-#EXTINF:-1 tvg-name="快乐垂钓" group-title="IPTV-数字付费",快乐垂钓高清
-http://192.168.8.1:4022/udp/239.77.1.119:5146
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实高清
 http://192.168.8.1:4022/udp/239.77.1.217:5146
 #EXTINF:-1 tvg-name="上海纪实" group-title="IPTV-数字付费",上海纪实高清
 http://192.168.8.1:4022/udp/239.77.0.147:5146
 #EXTINF:-1 tvg-name="求索记录" group-title="IPTV-数字付费",求索纪录高清
 http://192.168.8.1:4022/udp/239.77.0.21:5146
-#EXTINF:-1 tvg-name="梨园" group-title="IPTV-数字付费",梨园频道高清
-http://192.168.8.1:4022/udp/239.77.1.100:5146
-#EXTINF:-1 tvg-name="武术世界" group-title="IPTV-数字付费",武术世界高清
-http://192.168.8.1:4022/udp/239.77.1.108:5146
-#EXTINF:-1 tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库高清
-http://192.168.8.1:4022/udp/239.77.1.120:5146
 #EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 4K
 http://192.168.8.1:4022/udp/239.77.1.237:5146
