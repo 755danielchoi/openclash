@@ -1,11 +1,11 @@
 #EXTM3U name="广东电信IPTV"
-#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
+#EXTINF:-1 tvg-name="CCTV1" group-title="IPTV-央视",CCTV-1高清
 http://192.168.8.1:4022/udp/239.77.1.144:5146
-#EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清
+#EXTINF:-1 tvg-name="CCTV2" group-title="IPTV-央视",CCTV-2高清
 http://192.168.8.1:4022/udp/239.77.1.158:5146
-#EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3高清
+#EXTINF:-1 tvg-name="CCTV3" group-title="IPTV-央视",CCTV-3高清
 http://192.168.8.1:4022/udp/239.77.0.169:5146
-#EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
+#EXTINF:-1 tvg-name="CCTV4" group-title="IPTV-央视",CCTV-4高清
 http://192.168.8.1:4022/udp/239.77.0.78:5146
 #EXTINF:-1 tvg-name="CCTV-4美洲" group-title="IPTV-央视",CCTV-4美洲高清
 http://192.168.8.1:4022/udp/239.253.43.121:5146
