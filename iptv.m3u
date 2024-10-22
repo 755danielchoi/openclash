@@ -93,14 +93,10 @@ http://192.168.8.1:4022/udp/239.77.1.124:5146
 http://192.168.8.1:4022/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳财经生活" group-title="IPTV-深圳电视台",深圳财经生活高清
 http://192.168.8.1:4022/udp/239.77.1.242:5146
-#EXTINF:-1 tvg-name="深圳娱乐频道" group-title="IPTV-深圳电视台",深圳娱乐频道高清
-http://192.168.8.1:4022/udp/239.77.1.243:5146
 #EXTINF:-1 tvg-name="深圳体育健康" group-title="IPTV-深圳电视台",深圳体育健康高清
 http://192.168.8.1:4022/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳少儿频道" group-title="IPTV-深圳电视台",深圳少儿频道高清
 http://192.168.8.1:4022/udp/239.77.1.244:5146
-#EXTINF:-1 tvg-name="深圳公共频道" group-title="IPTV-深圳电视台",深圳公共频道高清
-http://192.168.8.1:4022/udp/239.77.1.126:5146
 #EXTINF:-1 tvg-name="深圳宝安频道" group-title="IPTV-深圳电视台",深圳宝安频道高清
 http://192.168.8.1:4022/udp/239.77.1.67:5146
 #EXTINF:-1 tvg-name="深圳龙岗频道" group-title="IPTV-深圳电视台",深圳龙岗频道高清
@@ -209,13 +205,5 @@ http://192.168.8.1:4022/udp/239.77.1.100:5146
 http://192.168.8.1:4022/udp/239.77.1.108:5146
 #EXTINF:-1 tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库高清
 http://192.168.8.1:4022/udp/239.77.1.120:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 4K50p
-http://192.168.8.1:4022/udp/239.77.1.236:5146
 #EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 4K
-http://192.168.8.1:4022/udp/239.77.1.237:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
-http://192.168.8.1:4022/udp/239.77.0.244:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 宽色域(4k)
-http://192.168.8.1:4022/udp/239.77.0.246:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
-http://192.168.8.1:4022/udp/239.77.0.245:5146
+http://192.168.8.1:4022/udp/239.77.1.236:5146
