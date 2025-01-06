@@ -1,6 +1,22 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# MyList
+#===MyList===
+
+#SUNtv
+DOMAIN-SUFFIX,generationnexxxt.com
+DOMAIN-SUFFIX,weixingdianshiptv.com
+DOMAIN-SUFFIX,2456788.com
+DOMAIN-SUFFIX,3693688.com
+DOMAIN-SUFFIX,starvod.xyz
+DOMAIN-SUFFIX,hkmlqxg.xyz
+DOMAIN-SUFFIX,ipify.org
+IP-CIDR,147.135.39.171/8
+
+#
+DOMAIN-KEYWORD,flyintpro
+
+#===Default List===
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
