@@ -13,8 +13,9 @@ IP-CIDR,147.135.39.171/8
 DOMAIN-SUFFIX,ipify.org
 
 
-#
+#other
 DOMAIN-KEYWORD,flyintpro
+DOMAIN-KEYWORD,tailscaled
 
 #===Default List===
 
