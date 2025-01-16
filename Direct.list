@@ -14,7 +14,8 @@ DOMAIN-SUFFIX,ipify.org
 
 #Tailscale
 DOMAIN-KEYWORD,tailscale
-
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
 
 #other
 DOMAIN-KEYWORD,flyintpro
