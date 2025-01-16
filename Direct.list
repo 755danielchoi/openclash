@@ -13,7 +13,7 @@ IP-CIDR,147.135.39.171/8
 DOMAIN-SUFFIX,ipify.org
 
 #Tailscale
-DOMAIN-KEYWORD,tailscaled
+DOMAIN-KEYWORD,tailscale
 
 
 #other
