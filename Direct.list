@@ -13,15 +13,12 @@ IP-CIDR,147.135.39.171/8
 DOMAIN-SUFFIX,ipify.org
 
 #Tailscale
-IP-CIDR,100.64.0.0/10,no-resolve
-DOMAIN-KEYWORD,tailscale
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
-
+DOMAIN-KEYWORD,tailscale
 
 #other
 DOMAIN-KEYWORD,flyintpro
-
 
 #===Default List===
 
