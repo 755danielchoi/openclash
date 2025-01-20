@@ -11,11 +11,6 @@ DOMAIN-SUFFIX,starvod.xyz
 DOMAIN-SUFFIX,hkmlqxg.xyz
 IP-CIDR,147.135.39.171/8
 
-#Tailscale
-DOMAIN-SUFFIX,tailscale.com
-DOMAIN-SUFFIX,tailscale.io
-DOMAIN-KEYWORD,tailscale
-
 #other
 DOMAIN-KEYWORD,flyintpro
 
